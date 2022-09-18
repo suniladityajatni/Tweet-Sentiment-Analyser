@@ -1,4 +1,4 @@
-# Twitter Sentiment Analyser
+# Tweet Sentiment Analyser
 In this project I have tried to solve the problem of classifying the tweets as positive or neagtive.
 
 The dataset that I have used can be found [here](https://www.kaggle.com/kazanova/sentiment140).
